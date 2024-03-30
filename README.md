@@ -51,9 +51,12 @@ Example of a user message:
 
 The bot's answer:
 
-```Предварительная оценка стоимости недвижимости: 5 000 000 рублей```
+```Предварительная оценка стоимости недвижимости: 23 000 000 рублей```
 
 ## Documentation
 Additional documentation is available at:
 [https://github.com/Grigory884/real-estate-valuation/blob/main/macro.csv]
 []
+
+## Contributing
+If you would like to contribute to this project, we would appreciate it if you created a new issue or opened a pull request on our GitHub repository.
