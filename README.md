@@ -55,7 +55,10 @@ The bot's answer:
 
 ## Documentation
 Additional documentation is available at:
+
 [https://github.com/Grigory884/real-estate-valuation/blob/main/macro.csv]
+
+[https://github.com/Grigory884/real-estate-valuation/blob/main/train.csv]
 
 
 ## Contributing
